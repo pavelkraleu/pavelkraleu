@@ -15,3 +15,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc malesuada leo vita
 - 💻 Tech stack : aaa, bbb, ccc, ddd
 - 🎓 Education : Part-time CVUT FIT
 - 🚀 Agile : aaa vvvv ssss ee
+	- aaa 
+	- vvv
