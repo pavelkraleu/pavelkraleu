@@ -5,7 +5,7 @@
 ### My Projects
 
 <table>
-<tr><td><img src="gas.gif"></td><td><img src="car.gif"></td><td><img src="gra.gif"></td><td><img src="bird.gif"></td><td><img src="bird.gif"></td></tr>
+<tr><td><img src="gas.gif"></td><td><img src="car.gif"></td><td><img src="gra.gif"></td><td><img src="bird.gif"></td><td><img src="gol.gif"></td></tr>
 <tr>
 	<td align="center"><a href="#"><b>Gas usage analysis</b></a><br><small>Personal project</small></td>
 	<td align="center"><a href="#"><b>Self-driving</b></a><br><small>CVUT eForce</small></td>
@@ -14,6 +14,22 @@
 	<td align="center"><a href="#"><b>Game of life</b></a><br><small>C++ project</small></td>
 </tr>
 </table>
+
+#### Gas usage analysis
+
+Lorem ipsum dolor sit amet, consectetur
+
+* aaa
+* bbb
+* ccc
+
+#### eForce
+
+#### Graffiti removal
+
+#### Birdy
+
+#### Game of life
 
 ### About Me
 
