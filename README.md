@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ⚠️ Under Construction ⚠️
 
 ### My Projects
@@ -14,22 +12,6 @@
 	<td align="center"><a href="#"><b>Game of life</b></a><br><small>C++ project</small></td>
 </tr>
 </table>
-
-#### Gas usage analysis
-
-Lorem ipsum dolor sit amet, consectetur
-
-* aaa
-* bbb
-* ccc
-
-#### eForce
-
-#### Graffiti removal
-
-#### Birdy
-
-#### Game of life
 
 ### About Me
 
