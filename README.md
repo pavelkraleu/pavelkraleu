@@ -17,7 +17,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc malesuada leo vitae tempus fringilla. Sed sit amet leo a eros tristique tempus. Curabitur sagittis enim nec magna ultricies convallis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque non sollicitudin erat, at aliquam magna.
 
-- 💻 **Tech stack** : aaa, bbb, ccc, ddd
+- 💻 **Tech stack** : Python, Django, Django REST framework, Kubernetes, Docker, Postgres, Helm, Pulumi, Gitlab CI, Github Actions
 - 🎓 **Education** : Lorem ipsum dolor
 - 🚀 **Agile** : aaa vvvv ssss ee
 	- [example.com](#) 
