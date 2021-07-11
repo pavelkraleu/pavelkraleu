@@ -18,7 +18,7 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc malesuada leo vitae tempus fringilla. Sed sit amet leo a eros tristique tempus. Curabitur sagittis enim nec magna ultricies convallis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque non sollicitudin erat, at aliquam magna.
 
 - 💻 **Tech stack** : Python, Django, Django REST framework, Kubernetes, Docker, Postgres, Helm, Pulumi, Gitlab CI
-- 🎓 **Education** : I currently study at Czech Technical University
+- 🎓 **Education** : I currently study at <a href="https://fit.cvut.cz/cs">Czech Technical University</a>
 - 🚀 **Agile** : aaa vvvv ssss ee
 	- [example.com](#) 
 	- [example.com](#) 
