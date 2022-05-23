@@ -4,8 +4,6 @@
 
 My name is Pavel and I’m a software engineer. I work mostly with <b>Python</b> and <b>Django</b> to create systems related to machine learning. 
 I’m a <b>Certified Kubernetes Application Developer</b> (CKAD) and have the ability to create, monitor and scale systems running on Kubernetes. <br>
-I strive for the future where cars will be used like washing machines. After pressing a button they would drive you wherever you want. 
-In <b>eForce driverless</b>, I’m responsible mostly for software testing and CI. 🏎
 
 - 💻 **Tech stack** : Python, Django, Django REST framework, Kubernetes, Docker, Postgres, Helm, Pulumi, Gitlab CI
 - 🎓 **Education** : I’m currently studying at the <a href="https://fit.cvut.cz/cs">Czech Technical University</a>
