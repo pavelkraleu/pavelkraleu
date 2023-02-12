@@ -1,16 +1,21 @@
-⚠️ Under Construction ⚠️
-
 ### About Me
 
 My name is Pavel and I’m a software engineer. I work mostly with <b>Python</b> and <b>Django</b> to create systems related to machine learning. 
 I’m a <b>Certified Kubernetes Application Developer</b> (CKAD) and have the ability to create, monitor and scale systems running on Kubernetes. <br>
 
-- 💻 **Tech stack** : Python, Django, Django REST framework, Kubernetes, Docker, Postgres, Helm, Pulumi, Gitlab CI
-- 🎓 **Education** : I’m currently studying at the <a href="https://fit.cvut.cz/cs">Czech Technical University</a>
-- 🚀 **Agile** : aaa vvvv ssss ee
-	- [example.com](#) 
-	- [example.com](#) 
-	- [example.com](#) 
+- 💻 **Tech stack**
+  - Python
+  - Django 
+  - DRF
+  - Kubernetes
+  - Docker
+  - Postgres
+  - Helm
+  - Pulumi
+- 🚀 **Things I like**
+  - 3D Printing
+  - Hardware 
+  - Machine learning
 
 ### My Projects
 
