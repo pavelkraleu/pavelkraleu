@@ -17,4 +17,12 @@ I’m a <b>Certified Kubernetes Application Developer</b> (CKAD) and have the ab
 	<td align="center"><a href="https://github.com/pavelkraleu/boiling-water"><b>Gas usage analysis</b></a><br><small>Personal project</small></td>
 	<td align="center"><a href="https://github.com/pavelkraleu/birdy-main"><b>Blockchain</b></a><br><small>IoT Project</small></td>
 </tr>
+<tr><td><img src="grid.jpg"></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+	<td align="center"><a href="https://github.com/pavelkraleu/grid-fin-carnival"><b>3D Printing</b></a><br><small>Carnival Mask</small></td>
+	<td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	</tr>
 </table>
