@@ -16,12 +16,22 @@ I’m a <b>Certified Kubernetes Application Developer</b> (CKAD) and have the ab
 <a href="https://github.com/pavelkraleu/deepclean"><b>Deep-Learning</b></a> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis quam a vestibulum lobortis. Nunc bibendum efficitur risus quis gravida. Cras a consectetur velit, eget euismod elit. Ut at magna vel justo pharetra aliquet quis id mi. Ut ut lorem massa. Donec in augue ligula.
 </td></tr>
 
+<tr><td>
+<img src="hack.jpg" align="right">
+<b>Prague AI Hackathon</b> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis quam a vestibulum lobortis. Nunc bibendum efficitur risus quis gravida. Cras a consectetur velit, eget euismod elit. Ut at magna vel justo pharetra aliquet quis id mi. Ut ut lorem massa. Donec in augue ligula.
+</td></tr>
 
 
 <tr><td>
 <img src="comp_gol_rect.gif" align="right">
 <a href="https://github.com/pavelkraleu/game-of-life"><b>Game of life</b></a> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis quam a vestibulum lobortis. Nunc bibendum efficitur risus quis gravida. Cras a consectetur velit, eget euismod elit. Ut at magna vel justo pharetra aliquet quis id mi. Ut ut lorem massa. Donec in augue ligula.
 </td></tr>
+
+<tr><td>
+<img src="wtl.png" align="right">
+<b>Where to Live</b> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis quam a vestibulum lobortis. Nunc bibendum efficitur risus quis gravida. Cras a consectetur velit, eget euismod elit. Ut at magna vel justo pharetra aliquet quis id mi. Ut ut lorem massa. Donec in augue ligula.
+</td></tr>
+
 
 <tr><td>
 <img src="comp_car.gif" align="right">
@@ -44,10 +54,9 @@ I’m a <b>Certified Kubernetes Application Developer</b> (CKAD) and have the ab
 <b>3D printing</b> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis quam a vestibulum lobortis. Nunc bibendum efficitur risus quis gravida. Cras a consectetur velit, eget euismod elit. Ut at magna vel justo pharetra aliquet quis id mi. Ut ut lorem massa. Donec in augue ligula.
 </td></tr>
 
-
 <tr><td>
-<img src="hack.jpg" align="right">
-<b>Prague AI Hackathon</b> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis quam a vestibulum lobortis. Nunc bibendum efficitur risus quis gravida. Cras a consectetur velit, eget euismod elit. Ut at magna vel justo pharetra aliquet quis id mi. Ut ut lorem massa. Donec in augue ligula.
+<img src="gas_meter.jpg" align="right">
+<b>Measuring Gas with CV</b> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis quam a vestibulum lobortis. Nunc bibendum efficitur risus quis gravida. Cras a consectetur velit, eget euismod elit. Ut at magna vel justo pharetra aliquet quis id mi. Ut ut lorem massa. Donec in augue ligula.
 </td></tr>
 
 </table>
