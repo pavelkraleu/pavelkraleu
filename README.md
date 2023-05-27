@@ -43,4 +43,11 @@ I’m a <b>Certified Kubernetes Application Developer</b> (CKAD) and have the ab
 <img src="garden.jpeg" align="right">
 <b>3D printing</b> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis quam a vestibulum lobortis. Nunc bibendum efficitur risus quis gravida. Cras a consectetur velit, eget euismod elit. Ut at magna vel justo pharetra aliquet quis id mi. Ut ut lorem massa. Donec in augue ligula.
 </td></tr>
+
+
+<tr><td>
+<img src="hack.jpg" align="right">
+<b>Prague AI Hackathon</b> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis quam a vestibulum lobortis. Nunc bibendum efficitur risus quis gravida. Cras a consectetur velit, eget euismod elit. Ut at magna vel justo pharetra aliquet quis id mi. Ut ut lorem massa. Donec in augue ligula.
+</td></tr>
+
 </table>
