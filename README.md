@@ -19,10 +19,24 @@ I’m a <b>Certified Kubernetes Application Developer</b> (CKAD) and have the ab
 
 
 <tr><td>
-<img src="gol.gif" align="right">
+<img src="gol_rect.gif" align="right">
 <a href="https://github.com/pavelkraleu/game-of-life"><b>Game of life</b></a> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis quam a vestibulum lobortis. Nunc bibendum efficitur risus quis gravida. Cras a consectetur velit, eget euismod elit. Ut at magna vel justo pharetra aliquet quis id mi. Ut ut lorem massa. Donec in augue ligula.
 </td></tr>
 
+<tr><td>
+<img src="car.gif" align="right">
+<a href="https://github.com/pavelkraleu/deepclean"><b>Deep-Learning</b></a> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis quam a vestibulum lobortis. Nunc bibendum efficitur risus quis gravida. Cras a consectetur velit, eget euismod elit. Ut at magna vel justo pharetra aliquet quis id mi. Ut ut lorem massa. Donec in augue ligula.
+</td></tr>
+
+<tr><td>
+<img src="gas.gif" align="right">
+<a href="https://github.com/pavelkraleu/deepclean"><b>Deep-Learning</b></a> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis quam a vestibulum lobortis. Nunc bibendum efficitur risus quis gravida. Cras a consectetur velit, eget euismod elit. Ut at magna vel justo pharetra aliquet quis id mi. Ut ut lorem massa. Donec in augue ligula.
+</td></tr>
+
+<tr><td>
+<img src="bird.gif" align="right">
+<a href="https://github.com/pavelkraleu/deepclean"><b>Deep-Learning</b></a> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis quam a vestibulum lobortis. Nunc bibendum efficitur risus quis gravida. Cras a consectetur velit, eget euismod elit. Ut at magna vel justo pharetra aliquet quis id mi. Ut ut lorem massa. Donec in augue ligula.
+</td></tr>
 
 </table>
 
