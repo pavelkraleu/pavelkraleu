@@ -8,6 +8,24 @@ I’m a <b>Certified Kubernetes Application Developer</b> (CKAD) and have the ab
 
 ### My Projects
 
+
+<table border="0">
+
+<tr><td>
+<img src="gra.gif" align="right">
+<a href="https://github.com/pavelkraleu/deepclean"><b>Deep-Learning</b></a> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis quam a vestibulum lobortis. Nunc bibendum efficitur risus quis gravida. Cras a consectetur velit, eget euismod elit. Ut at magna vel justo pharetra aliquet quis id mi. Ut ut lorem massa. Donec in augue ligula.
+</td></tr>
+
+
+
+<tr><td>
+<img src="gol.gif" align="right">
+<a href="https://github.com/pavelkraleu/game-of-life"><b>Game of life</b></a> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis quam a vestibulum lobortis. Nunc bibendum efficitur risus quis gravida. Cras a consectetur velit, eget euismod elit. Ut at magna vel justo pharetra aliquet quis id mi. Ut ut lorem massa. Donec in augue ligula.
+</td></tr>
+
+
+</table>
+
 <table>
 <tr><td><img src="gra.gif"></td><td><img src="car.gif"></td><td><img src="gol.gif"></td><td><img src="gas.gif"></td><td><img src="bird.gif"></td></tr>
 <tr>
