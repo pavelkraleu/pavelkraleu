@@ -9,7 +9,11 @@ I’m a <b>Certified Kubernetes Application Developer</b> (CKAD) and have the ab
   * My projects [Where to live](https://wtl.pavelkral.eu), [OptiFleet](https://zero.pavelkral.eu) ([source](https://github.com/pavelkraleu/greenhack-cars)), [Django on Cloud Run](https://github.com/pavelkraleu/cloud-run-django)
 * **Kubernetes, Docker**
   * [CKAD certification](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/19b128b7-59c0-566b-8661-7a21756a52d5-pavel-kral-certified-kubernetes-application-developer-ckad-certificate.pdf)
-* Helm, Pulumi  
+* **Helm, Pulumi**  
+* **Open source contributions**
+  * [llm](https://github.com/simonw/llm/issues/115#event-9927209762)
+  * [django-rest-framework](https://github.com/encode/django-rest-framework/issues/8995) WIP
+  * [textual](https://github.com/Textualize/textual-dev/pull/8) WIP
 
 
 💪 **Things I like**: 3D Printing, Hardware, Machine learning
