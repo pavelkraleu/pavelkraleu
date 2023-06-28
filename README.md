@@ -3,7 +3,7 @@
 My name is Pavel and I’m a software engineer. I work mostly with <b>Python</b> and <b>Django</b> to create systems related to machine learning. 
 I’m a <b>Certified Kubernetes Application Developer</b> (CKAD) and have the ability to create, monitor and scale systems running on Kubernetes. <br>
 
-💻 **Tech stack**: 
+💻 **Tech stack**
 * **Python, Django, DRF, Postgres**
   * 5+ years of experience 
   * My projects [Where to live](https://wtl.pavelkral.eu), [OptiFleet](https://zero.pavelkral.eu), [Django on Cloud Run](https://github.com/pavelkraleu/cloud-run-django)
