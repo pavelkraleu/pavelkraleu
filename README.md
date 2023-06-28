@@ -6,7 +6,7 @@ I’m a <b>Certified Kubernetes Application Developer</b> (CKAD) and have the ab
 💻 **Tech stack**: 
 * **Python, Django, DRF, Postgres**
   * 5+ years of experience 
-  * My projects [Where to live](https://wtl.pavelkral.eu), [OptiFleet](https://zero.pavelkral.eu) 
+  * My projects [Where to live](https://wtl.pavelkral.eu), [OptiFleet](https://zero.pavelkral.eu), [Django on Cloud Run](https://github.com/pavelkraleu/cloud-run-django)
 * **Kubernetes, Docker**
   * [CKAD certification](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/19b128b7-59c0-566b-8661-7a21756a52d5-pavel-kral-certified-kubernetes-application-developer-ckad-certificate.pdf)
 * Helm, Pulumi  
