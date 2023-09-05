@@ -1,6 +1,6 @@
 ### About Me
 
-My name is Pavel and I’m a software engineer. I work mostly with <b>Python</b> and <b>Django</b> to create systems related to machine learning. 
+My name is Pavel and I’m a software engineer. I work mostly with <b>Python</b> and <b>Django</b> to create systems related to machine learning and <b>LLMs</b>. 
 I’m a <b>Certified Kubernetes Application Developer</b> (CKAD) and have the ability to create, monitor and scale systems running on Kubernetes. <br>
 
 💻 **Tech stack**
