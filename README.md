@@ -12,7 +12,7 @@ I’m a <b>Certified Kubernetes Application Developer</b> (CKAD) and have the ab
 * **Helm, Pulumi**  
 * **Open-source contributions**
   * [llm](https://github.com/simonw/llm/issues/115)
-  * [django-rest-framework](https://github.com/encode/django-rest-framework/issues/8995) WIP
+  * [django-rest-framework](https://github.com/encode/django-rest-framework/issues/8995)
   * [textual](https://github.com/Textualize/textual-dev/pull/8) WIP
 
 
