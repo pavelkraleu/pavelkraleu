@@ -52,6 +52,25 @@ I created this little tool that calculates all sorts of commuting details, how m
 
 
 <tr><td>
+<img src="open-ai-tokens.png" align="right">
+<a href="https://github.com/pavelkraleu/llm-language-tokens"><b>Analysing OpenAI tokens and embeddings in various languages</b></a> - 
+This project examines the behavior of OpenAI's embeddings and tokenization in different languages, comparing their efficiency and linguistic adaptability across a multilingual spectrum.
+</td></tr>
+
+<tr><td>
+<img src="vertex-tokens.png" align="right">
+<a href="https://github.com/pavelkraleu/llm-language-tokens-vertex"><b>Exploring Google Vertex tokens and embeddings in various languages</b></a> - 
+This piece explores the functioning and efficiency of Google Vertex's language processing features, scrutinizing how it handles various languages and adapts to diverse linguistic challenges.
+</td></tr>
+
+<tr><td>
+<img src="open-ai-audio.png" align="right">
+<a href="https://github.com/pavelkraleu/open-ai-audio"><b>Exploring Google Vertex tokens and embeddings in various languages</b></a> - 
+Analyzing OpenAI's Text-to-Speech API. A Closer Look at Its Pricing, Speed, and Audio Quality in Practical Applications.
+</td></tr>
+
+
+<tr><td>
 <img src="comp_car.gif" align="right">
 <a href="https://eforce.cvut.cz/en/driverless/"><b>Self-driving</b></a> - 
 I teamed up with CVUT eForce to create a self-driving car. As a testing whiz, I tackled the CI/CD challenges to ensure a smooth ride. 
